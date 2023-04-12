@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rgear"
-version = "0.1.0"
+version = "0.2.0"
 description = "Generate R helper scripts for use on Domino Data Lab"
 authors = ["Mark Sellors <github@5vcc.com>"]
 readme = "README.md"
