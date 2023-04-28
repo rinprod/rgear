@@ -4,7 +4,7 @@ The aim of `rgear` is to provide simple tooling to create helper files for R bas
 
 The files it creates allow you to serve R based content (Shiny apps, plumber APIs or RMarkdown html outputs) from the command line.
 
-Originally created for use with Domino Data Lab, `rgear` can be used wherever R is and therefore also makes a great complement to other projects such as (R4Pi)[https://r4pi.org].
+Originally created for use with Domino Data Lab, `rgear` can be used wherever R is and therefore also makes a great complement to other projects such as [R4Pi](https://r4pi.org).
 
 Supported content types:
 
