@@ -86,7 +86,7 @@ Then you can run the app with:
 # ./app.sh
 ```
 
-Then visit the app in your browser using either http://localhost:8888 or http://<IP ADDRESS>:8888.
+Then visit the app in your browser using either http://localhost:8888 or http://IP_ADDRESS:8888.
 
 Use ctrl+c to stop the app from running.
 
